@@ -10,7 +10,6 @@ import json
 from PIL import ImageGrab
 import threading
 import codecs 
-'test11'
 
 keyboard.add_hotkey('end',os._exit,(0,))
 
